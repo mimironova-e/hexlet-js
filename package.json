@@ -1,0 +1,23 @@
+{
+  "name": "first_project_on_hexlet_mironova_e",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "first project on hecklet from mimironova.e@gmail.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mimironova-e/hexlet-js.git"
+  },
+  "keywords": [
+    "hexlet"
+  ],
+  "author": "mimironova.e@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mimironova-e/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/mimironova-e/hexlet-js#readme"
+}
